@@ -224,7 +224,7 @@ void LED_Toggle(Led_TypeDef Led)
 
 GPIO_PinState PB_GetState(Button_TypeDef Button)
 {
-  return HAL_GPIO_ReadPin(BUTTON_PORT[Button], BUTTON_PIN[Button]);
+	return HAL_GPIO_ReadPin(BUTTON_PORT[Button], BUTTON_PIN[Button]);
 }
 
 /* USER CODE END 4 */
