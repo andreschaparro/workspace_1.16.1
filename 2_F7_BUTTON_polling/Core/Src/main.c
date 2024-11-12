@@ -38,9 +38,9 @@ typedef enum
 
 typedef enum
 {
-  BUTTON_USER = 0,
-  BUTTON_KEY = BUTTON_USER
-}Button_TypeDef;
+	BUTTON_USER = 0,
+	BUTTON_KEY = BUTTON_USER
+} Button_TypeDef;
 /* USER CODE END PTD */
 
 /* Private define ------------------------------------------------------------*/
