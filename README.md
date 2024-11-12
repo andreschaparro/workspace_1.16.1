@@ -8,7 +8,7 @@
 
 ## Hojas de ayuda
 
-- [Eclipse IDE Keybindings](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf).
+- [Eclipse IDE Keybindings](https://eclipseide.org/getting-started/documents/eclipse-ide-keybindings.pdf).
 - [Git Cheat Sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf).
 - [Linux commands cheat sheet](https://linuxconfig.org/linux-commands-cheat-sheet).
 
