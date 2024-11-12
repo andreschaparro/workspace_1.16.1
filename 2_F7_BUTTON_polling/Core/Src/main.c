@@ -36,7 +36,6 @@ typedef enum
 	LED_RED = LED3,
 } Led_TypeDef;
 
-
 typedef enum
 {
   BUTTON_USER = 0,
@@ -60,6 +59,7 @@ typedef enum
 /* USER CODE BEGIN PV */
 GPIO_TypeDef* GPIO_PORT[LEDn] = {LED1_GPIO_Port, LED2_GPIO_Port, LED3_GPIO_Port};
 uint16_t GPIO_PIN[LEDn] = {LED1_Pin, LED2_Pin, LED3_Pin};
+
 GPIO_TypeDef* BUTTON_PORT[BUTTONn] = {BUTTON_USER_GPIO_Port};
 uint16_t BUTTON_PIN[BUTTONn] = {BUTTON_USER_Pin};
 /* USER CODE END PV */
